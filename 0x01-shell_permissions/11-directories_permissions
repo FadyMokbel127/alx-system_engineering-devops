@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -h -R a+x .
+chmod -R a+x --preserve-root .
