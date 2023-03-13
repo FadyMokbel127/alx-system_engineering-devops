@@ -1,0 +1,2 @@
+echo 'smth'
+echo 'smth'
